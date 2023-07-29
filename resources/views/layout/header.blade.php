@@ -3,7 +3,7 @@
     <div class="container d-flex align-items-center">
 
       <div class="logo me-auto">
-        <h1><a href="index.html">Dynamic</a></h1>
+        <h1><a href="index.html">Dynamic Solution</a></h1>
       </div>
 
       <nav id="navbar" class="navbar order-last order-lg-0">
@@ -27,7 +27,6 @@
           </li>
           <li><a class="nav-link scrollto" href="#services">Services</a></li>
           <li><a class="nav-link scrollto " href="#portfolio">Portfolio</a></li>
-          <li><a class="nav-link scrollto" href="#pricing">Pricing</a></li>
           <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
